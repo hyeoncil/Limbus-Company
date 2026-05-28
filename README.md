@@ -1,5 +1,5 @@
-#  Bocchi the Rock Wallpaper
-This is a web-based wallpaper inspired from the anime Bocchi the rock. This website features a music player and a playlist that allows users to browse the playlist
+#  Limbus Company
+This is a web-based wallpaper inspired from the game Limbus Company. This website features a music player and a playlist that allows users to browse the playlist
 and create their own custom playlist.
 
 ##  Thumbnail
