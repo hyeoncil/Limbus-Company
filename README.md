@@ -1,4 +1,4 @@
-#  project moon and mili and Studio EIM
+#  Project Moon and mili and Studio EIM
 This is a web-based wallpaper inspired from the game Lobotomy Corporation, Library of Ruina and Limbus Company. This website features a music player and a playlist that allows users to browse the playlist
 and create their own custom playlist.
 
